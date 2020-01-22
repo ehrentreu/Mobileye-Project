@@ -1,5 +1,4 @@
-xt-meye-bareket-avigail-hadass-nechama created by GitHub Classroom
-​
+
 # ExcellenTeam Mobileye Project 2019-11-05
 ​
 Detect traffic lights in an image and they're position in the world.
@@ -10,9 +9,8 @@ The project had 3 steps:
 * Calculation of the traffic light 3D position.
 ​
 # Team Members:
-* Avigail Wilk
-* Hadass Wittow
-* Nechama Verbov
+* Shani Ehrentreu
+* Miriam Gottchalk
 ​
 # Libraries/Technologies Used:
 * python 3.7
